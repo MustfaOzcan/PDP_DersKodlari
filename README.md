@@ -41,6 +41,9 @@ Calistir:
 
 ![Program7](https://github.com/MustfaOzcan/PDP_DersKodlari/assets/103693735/6b6cdd59-ca91-4a01-9c58-c80fca4d1aa9)
 
+# Java Projesini Eclipse import etme
+
+[![Video](https://img.youtube.com/vi/9N6Oj0QJ4M8/0.jpg)](https://www.youtube.com/watch?v=9N6Oj0QJ4M8#t=6m22s)
 
 
 
