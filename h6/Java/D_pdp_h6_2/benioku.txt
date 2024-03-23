@@ -1,0 +1,2 @@
+"Mattt" bir kütüphane örneklemesidir.İçerisinde main yoktur sadece Pi classi vardır biz bu "Mattt" projesini "Mattt.jar" dosyasına dönüştürdük
+ve "denemeMattt" projesinde kullandik "denemeMattt" projesi main içerir ve Pi classini kullanir.
