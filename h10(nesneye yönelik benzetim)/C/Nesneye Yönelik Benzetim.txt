@@ -1,0 +1,1 @@
+Java nesneye yönelik bir dildir buna bağlı olarak bir Java projesi C'de Nesneye Yönelik Benzetim yapılarak icra edilmiştir.   
