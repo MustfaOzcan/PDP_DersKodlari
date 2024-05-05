@@ -1,0 +1,7 @@
+bu uygulama try catch bloğunun c dili için benzetimidir.Önce try catch bloğu tanimlanmıs daha sonra "Bolme" fonksiyonu try catch içine alınarak hata kontrolu saglanmıstır. 
+
+A degeri icin 10 B degeri icin 0 girebilirsiniz.
+
+programı terminalde gcc -o Test Test.c 
+
+şeklinde çalıştırabilirsiniz.
